@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ crearDiccionario()
+comment2.params=
+comment2.target=void\ gestionDiccionario()
+comment3.params=
+comment3.target=void\ borrarDiccionario()
+comment4.params=
+comment4.target=void\ buscarTerminoTodos()
+comment5.params=
+comment5.target=void\ buscarSubterminoTodos()
+numComments=6

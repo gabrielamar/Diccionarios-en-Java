@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=mensaje
+comment0.target=void\ imprimeMensaje(java.lang.String)
+comment0.text=\n\ Imprime\ un\ mensaje\ en\ el\ dispositivo\ \n\ estandar\ de\ salida\ sin\ salto\ de\ linea\n\ @param\ mensaje\ mensaje\ que\ se\ va\ a\ imprimir\n
+comment1.params=
+comment1.target=void\ imprimeMensaje()
+comment1.text=\n\ Imprime\ un\ salto\ de\ linea\ en\ el\ dispositivo\ \n\ estandar\ de\ salida\n
+comment2.params=
+comment2.target=java.lang.String\ leeCadena()
+comment2.text=\n\ Lee\ una\ cadena\ de\ caracteres\ (string)\ desde\ \n\ el\ terminal(desde\ el\ dispositivo\ estandar\ \n\ de\ entrada).\ \ La\ cadena\ se\ extiende\ hasta\ \n\ el\ siguiente\ salto\ de\ linea\n\ @return\ la\ cadena\ leida\ (sin\ salto\ de\ linea)\n
+comment3.params=mensaje
+comment3.target=java.lang.String\ leeCadena(java.lang.String)
+comment3.text=\n\ Lee\ una\ cadena\ desde\ el\ terminal,\ pero\ en\ \n\ primer\ lugar\ escribe\ un\ mensaje.\n\ @param\ \ mensaje\ mensaje\ que\ se\ escribe\n\ @return\ la\ cadena\ leida\n
+comment4.params=mensaje
+comment4.target=int\ leeEntero(java.lang.String)
+comment4.text=\n\ Lee\ un\ n\u00FAmero\ entero\ (int)\ desde\ el\ terminal\ \n\ (dispositivo\ estandar\ de\ entrada).\ El\ n\u00FAmero\ \n\ debe\ finalizar\ con\ un\ salto\ de\ l\u00EDnea.\n\ @param\ mensaje\ mensaje\ que\ se\ imprime\ \n\ @return\ el\ valor\ num\u00E9rico\ leido\ (como\ int)\n\ @exception\ NumberFormatException\ si\ se\ \n\ introduce\ un\ valor\ incorrecto\n
+comment5.params=mensaje\ minimo
+comment5.target=int\ leeEntero(java.lang.String,\ int)
+comment5.text=\n\ Lee\ un\ entero\ superior\ o\ igual\ a\ un\ valor\ m\u00EDnimo\ \n
+comment6.params=mensaje\ minimo\ maximo
+comment6.target=int\ leeEntero(java.lang.String,\ int,\ int)
+comment6.text=\n\ Lee\ un\ entero\ en\ el\ intervalo\ definido\ por\ los\n\ valores\ m\u00EDnimo\ y\ m\u00E1ximo\n
+comment7.params=mensaje
+comment7.target=double\ leeReal(java.lang.String)
+comment7.text=\n\ Lee\ un\ n\u00FAmero\ real\ (double)\ desde\ el\ terminal\ \n\ (dispositivo\ estandar\ de\ entrada).\ El\ n\u00FAmero\ \n\ debe\ finalizar\ con\ un\ salto\ de\ l\u00EDnea.\n\ @param\ mensaje\ mensaje\ que\ se\ imprime\ \n\ @return\ el\ valor\ num\u00E9rico\ leido\ (como\ double)\n\ @exception\ NumberFormatException\ si\ se\ \n\ introduce\ un\ valor\ incorrecto\n
+numComments=8

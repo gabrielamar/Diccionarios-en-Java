@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=codigo\ palabra\ raiz\ def
+comment0.target=Termino(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\ Constructor\ b\u00E1sico\ \ \ \ \ \ \ \ \ \ *\n\ \ -\ Requiere\ necesariamente\ \ *\n
+comment1.params=
+comment1.target=int\ codigoTermino()
+comment1.text=\ Funciones\ de\ acceso\ a\ los\ \ \ *\ncampos\ privados\ de\ la\ clase
+comment2.params=
+comment2.target=java.lang.String\ palabraTermino()
+comment3.params=
+comment3.target=java.lang.String\ raizTermino()
+comment4.params=
+comment4.target=java.lang.String\ defTermino()
+comment5.params=terminoInicial\ terminoNuevo
+comment5.target=Termino\ insertaTermino(Termino,\ Termino)
+comment5.text=\ Funciones\ de\ modificacion\ de\ los\ \ \ *\ncampos\ privados\ de\ la\ clase
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ M\u00E9todo\ toString\ para\ la\ \ \ \ \ \ \ *\n\ impresi\u00F3n\ del\ contenido\ de\ \ \ \ *\nde\ un\ objeto\ de\ tipo\ Termino
+comment7.params=terminoInicial\ palabra
+comment7.target=Termino\ buscarTermino(Termino,\ java.lang.String)
+comment8.params=terminoInicial
+comment8.target=void\ listarTerminos(Termino)
+comment9.params=terminoInicial\ palabra
+comment9.target=Termino\ borrarTermino(Termino,\ java.lang.String)
+numComments=10
